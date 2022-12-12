@@ -17,7 +17,7 @@ import web3 from "../public/web3.png";
 import web4 from "../public/web4.png";
 
 export default function Home() {
-  const [darkMode, setDarkMode] = useState(true);
+  const [darkMode, setDarkMode] = useState(false);
 
   return (
     <div className={darkMode ? "dark" : ""}>
