@@ -127,7 +127,7 @@ export default function Home() {
         </section>
         <section className="py-10">
           <div>
-            <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">Portofólio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Aqui estão alguns dos meus projetos:
             </p>
