@@ -108,7 +108,9 @@ export default function Home() {
               <span className="text-teal-500">React Native </span> para
               desenvolvimento frontEnd, para web e mobile, respectivamente, e
               para o backEnd utilizo o{" "}
-              <span className="text-teal-500">NodeJs. </span> <br></br>
+              <span className="text-teal-500">NodeJs.</span> 
+              Estou estudando ASPNET para 
+              aprender novos conceitos e encontrei no C# uma linguagem onde posso praticar e utlizar as habilidades que adquiri na faculdade.<br></br>
               Recentemente iniciei uma graduação em Engenharia da Computação -
               estou no 3º período - afim de aprimorar minhas habilidades e
               adquirir um conhecimento sólido acerca da base da computação e seu
